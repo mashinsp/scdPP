@@ -1,1 +1,1 @@
-# House price predictor using random forest 
+# House price predictor using regression model 
